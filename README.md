@@ -16,14 +16,14 @@ prices, and more. Each can be completed in ten minutes or less.
 
 **Topics covered:**
 
-- Clean data with less manual labour
+- Clean data with less manual labor
 - Retrieve and assign data using rows and columns
 - Handle indexes, including hierarchical indexes
 - Read and write CSV, JSON, and other common formats
 - Process and manipulate textual data
 - Work with dates and times
 - Perform aggregate calculations on selected data subsets
-- Produce attractive, useful visualisations
+- Produce attractive, useful visualizations
 
 ---
 
